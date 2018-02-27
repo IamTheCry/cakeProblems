@@ -1,1 +1,2 @@
 This is a repo of some toy problems and my solutions. Comments will include my thought process and strategies.
+Each problem will read like a story and the final solution will be at the end. Feel free to read along to see my thought and discovery process. Major lessons for each problem will be posted at the beginning of each file.
